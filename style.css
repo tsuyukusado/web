@@ -1,0 +1,27 @@
+h1 {
+    color: navy;
+}
+h2 {
+    color: navy;
+}
+
+/* フッターの文字色を灰色に変更 */
+footer {
+    color: #808080; /* 灰色 */
+}
+
+
+/* body全体に露草色の枠を追加 */
+body {
+    border: 20px solid #71A4D9; /* 露草色の枠 */
+    padding: 20px; /* 枠と中身の間に余白を追加 */
+    margin: 0; /* ページの余白をリセット */
+}
+
+/* 段落の最初にインデントをつける */
+p {
+    padding-left: 20px; /* 左側に20pxのインデントをつける */
+}
+h4 {
+    padding-left: 20px; /* 左側に20pxのインデントをつける */
+}
